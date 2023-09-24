@@ -5,7 +5,7 @@ It logs the drinking habits of the user and performs CRUD applications against a
 
 
 ## [REQUIREMENTS](#requirements)
-- Register on habit
+- Register one habit
 - Track the habit by the **quantity** (eg. number of glasses of water a day)
 - Store and retrieve data from a **sqlite database**
 - Upon start, create a database ***if one isn't already present***
