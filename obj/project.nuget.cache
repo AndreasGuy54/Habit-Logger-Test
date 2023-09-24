@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "QbdHDo1t5DiexbgDbAC3gYohWz13coqQsuRvZfPcgXa3KCBy9G7EtPAAmxONb/4f9bZEtxSVNGfkuEIdOUMFPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abaid\\Documents\\FCCLearnCSharp\\CsharpProjects\\TestSqlLite\\TestSqlLite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abaid\\.nuget\\packages\\microsoft.data.sqlite\\7.0.1\\microsoft.data.sqlite.7.0.1.nupkg.sha512",
+    "C:\\Users\\abaid\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.1\\microsoft.data.sqlite.core.7.0.1.nupkg.sha512",
+    "C:\\Users\\abaid\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\abaid\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\abaid\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\abaid\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\abaid\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
